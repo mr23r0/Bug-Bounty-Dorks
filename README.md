@@ -1,10 +1,11 @@
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://miro.medium.com/max/602/0*EA62_VMXI5zNV8FS" width="100%"></a></p>
+Instagram- @sarans0x00h
 
 ## <p align="center" style="color:#4285F4">Why use <i style=color:gold>Google Dorks?</i></p>
 ##### <i>Well, <b>Google is a very powerful tool.</b> It can not only search for Websites, Songs, Movies and Places it can do various types of things, like suppose if you want to check if a website has a directory "env", to find the answer you have to brute-force directories and it has many consiquences, Who knows firewall may block you ! And  you will also use very good amount of resources to do that...</i>
 
-<b STYLE="Color:red">!! IF THAT DOESN'T HELP GOD MAY HELP YOU !!</b>
+
 
 ## <p align="center">Google Dorks To Find A Bug Hunting Program ::</p>
 <b STYLE="Color:green; background-color:skyblue; margin:2px; padding:2px">To understand what is exactly happning  </b>
@@ -875,3 +876,9 @@ server_admin_small
 database_administration
 system_administration
 ```
+
+<b STYLE="Color:red">!! IF THAT DOESN'T HELP GOD MAY HELP YOU !!</b>
+
+Resources -
+ Github- sushiwushi
+ Youtube- redirect_poc
